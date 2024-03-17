@@ -1,4 +1,3 @@
-#https://github.#com/Fx990/#SHISxXYN.git
 #━━━━━━━━[ IMPORT AND PROTECT]━━━━━━━━#
 from concurrent.futures import ThreadPoolExecutor as terd
 import os,time,string,random,json,uuid,sys,re,requests
@@ -12,9 +11,7 @@ user,lock,oks,cps,loop,pswrd,numbr,mtd=[],[],[],[],0,[],[],[]
 #━━━━━━━━[ <<<<>>>> ]━━━━━━━━#
 logo=(f"""{a}
  
-
-
-Y88b   d88P Y88b   d88P 888b    888 
+ Y88b   d88P Y88b   d88P 888b    888 
  Y88b d88P   Y88b d88P  8888b   888 
   Y88o88P     Y88o88P   88888b  888 
    Y888P       Y888P    888Y88b 888 
@@ -23,9 +20,6 @@ Y88b   d88P Y88b   d88P 888b    888
  d88P Y88b      888     888   Y8888 
 d88P   Y88b     888     888    Y888 
                                     
-
-
-
 {g}\n{h} MAKE BY  {I}{a} SHISHIR AHMED
 {h} FACEBOOK {I}{a} Xyn AriYan
 {h} TOOLS    {I}\x1b[0m FILE CRACK\n{g}""")
