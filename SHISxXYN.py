@@ -72,7 +72,7 @@ def usergent():
 #reww=requests.get('https://raw.githubusercontent.com/Saifur-Rahm/ZxrTy/main/M1.txt').text
 #maua=re.findall("M1=(.*)=EXIT", reww)[0]
 def approval():
-     kns="shishir-xd"
+     kns="SHISxXYN"
      maink(kns)
 #━━━━━━━━[ MAIN MENU ]━━━━━━━━#
 def maink(kns):
